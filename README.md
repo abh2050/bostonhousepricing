@@ -26,3 +26,13 @@ Git Commands in Order
 5. git add . ' Adds all files to commit'
 6. git commit -m 'message to commit'
 7. git push origin main
+
+Create an app for taking in request and outputting results
+
+Create a postman json file for accepting the input
+
+Call in request from the [Postman](https://www.postman.com/)
+
+Create a HTML file to accept the request
+
+Create a Procfile for [Heroku](https://www.heroku.com/)
