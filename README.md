@@ -18,3 +18,11 @@ Install the requirement.txt file using pip
 ```
 pip install -r requirements.txt
 ```
+Git Commands in Order
+1. git config --global user.name
+2. git config --global user.email
+3. git add <file>
+4. git status
+5. git add . ' Adds all files to commit'
+6. git commit -m 'message to commit'
+7. git push origin main
