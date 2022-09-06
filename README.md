@@ -1,5 +1,5 @@
 ### Boston Housing Pricing Prediction
-
+This project builts a regression ML model on Boston Housing data and predicts a price based on the input.
 
 ### Software And Tool Requirements
 
@@ -36,3 +36,9 @@ Call in request from the [Postman](https://www.postman.com/)
 Create a HTML file to accept the request
 
 Create a Procfile for [Heroku](https://www.heroku.com/)
+
+Deploy the app on the Herkoku using the github
+
+Create a base image on the Dockerfile
+
+Setup the github actions
