@@ -1,4 +1,4 @@
-
+![Boston Houseing market](https://i.insider.com/629a3ba659963a00189e3f4d?width=700)
 ### Boston Housing Pricing Prediction
 This project builds a regression ML model on Boston Housing data and predicts a price based on the input. It includes steps for data loading, preprocessing, model training, evaluation, and prediction.
 
