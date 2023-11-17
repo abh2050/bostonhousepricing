@@ -46,8 +46,6 @@ pip install -r requirements.txt
 
 #### Setup GitHub actions with description for this project
 
-... [Python code for loading dataset, preprocessing, and model training]
-
 ### Data Preparation
 Creating a dataframe with the independent variables. In this case, our feature names are independent variables.
 
@@ -56,8 +54,6 @@ Correlation data where we need to check for correlation between the Independent 
 
 #### Model Training
 For this analysis, we will be using the Linear Regression Model.
-
-... [Python code for model training, evaluation, and prediction]
 
 ### Prediction on a Single Dataset
 We can further use this model to do prediction on a single dataset which can be a user input or a new dataset.
