@@ -1,7 +1,7 @@
 
 ![Boston Houseing market](https://i.insider.com/629a3ba659963a00189e3f4d?width=700)
 
-![](https://img.shields.io/badge/python-3.8-blue)
+[![Python](https://img.shields.io/badge/python-3.5+-blue.svg?style=flat-square)](https://www.python.org)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.4-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-1.21.2-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue)
