@@ -7,6 +7,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-blue)
 ![sickit](https://img.shields.io/badge/scikit--learn-compatible-orange)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-enabled-brightgreen)
+![Heroku](https://img.shields.io/badge/Heroku-deployed-purple)
+
 ### Boston Housing Pricing Prediction
 This project builds a regression ML model on Boston Housing data and predicts a price based on the input. It includes steps for data loading, preprocessing, model training, evaluation, and prediction.
 
