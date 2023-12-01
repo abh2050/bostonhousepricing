@@ -1,4 +1,12 @@
+
 ![Boston Houseing market](https://i.insider.com/629a3ba659963a00189e3f4d?width=700)
+
+![](https://img.shields.io/badge/python-3.8-blue)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.4-blue)
+![NumPy](https://img.shields.io/badge/NumPy-1.21.2-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-blue)
+![sickit](https://img.shields.io/badge/scikit--learn-compatible-orange)
 ### Boston Housing Pricing Prediction
 This project builds a regression ML model on Boston Housing data and predicts a price based on the input. It includes steps for data loading, preprocessing, model training, evaluation, and prediction.
 
